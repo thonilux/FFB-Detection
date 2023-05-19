@@ -1,0 +1,12 @@
+names:
+- FFB
+nc: 1
+roboflow:
+  license: Public Domain
+  project: ffb-detection-o5ghn
+  url: https://universe.roboflow.com/ahmad-fathoni-colvv/ffb-detection-o5ghn/dataset/2
+  version: 2
+  workspace: ahmad-fathoni-colvv
+test: test/images
+train: train/images
+val: valid/images
